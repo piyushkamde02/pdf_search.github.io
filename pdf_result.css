@@ -1,0 +1,66 @@
+.main{
+   position: relative;  
+}
+.search_pdf{
+   background-color: black;
+   height: 20%;
+   width: 100%;
+   color: white;
+}
+.image{
+  top: 0px;
+  right: 800px;
+    position: absolute;
+}
+.heading{
+  top: 0px;
+  right: 550px;
+    position: absolute;
+}
+.nav{
+  top: 200px;
+}
+.nav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: absolute;
+    width: 500px;
+    top: 150px;
+    right: 480px;
+}
+.nav button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  top: 150px;
+  right: 430px; 
+  position: absolute;
+}
+.left{
+  position: absolute;
+  top: 230px;
+  left: 50px;
+  height: 320px;
+  width: 550px;
+  background-color: white;
+}
+.right{
+  position: absolute;
+  top: 230px;
+  left: 620px;
+  height: 320px;
+  width: 550px;
+  background-color: white;
+}
+.search_result{
+      
+}
